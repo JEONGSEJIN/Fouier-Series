@@ -3,7 +3,7 @@
 void main()
 {
 	double n;
-	printf("nÀÇ °³¼ö:");
+	printf("nì˜ ê°œìˆ˜:");
 	scanf("%f", &n);
 	double function=1.5;
 	double pi;
