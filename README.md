@@ -1,2 +1,2 @@
-# Linear-Algebra
-선형대수학 구현
+# Fouier-Series
+푸리에 급수 C / Matlab 구현
