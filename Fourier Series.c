@@ -8,7 +8,7 @@ void main()
 	double function=1.5;
 	double pi;
 	double x;
-    double sum = 1.0;
+	double sum = 1.0;
 
 	for (double i = 1; i < n; i++)
 	{
